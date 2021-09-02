@@ -1,0 +1,13 @@
+.container {
+    background-color: #fffafa;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    position: fixed;
+    align-items: center;
+    justify-content: center;
+}
+p {
+    font-size: 45px;
+    color: #261c2c;
+}
